@@ -3,3 +3,7 @@ git add .
 git commit -m
 git restore file_name
 git rm --cached
+git remote -v 
+git origin push -u
+git origin push 
+git set-url
