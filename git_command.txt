@@ -1,0 +1,5 @@
+git inti
+git add .
+git commit -m
+git restore file_name
+git rm --cached
